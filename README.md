@@ -6,12 +6,13 @@
 [![Kaggle Follow](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jcatumba)
 [![Orcid](https://img.shields.io/badge/orcid-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0506-6258)
 [![Blog](https://img.shields.io/badge/blog-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/posts/amathematicianinthecloud.wordpress.com)
+<!-- [![HackerEarth](https://img.shields.io/badge/hackerearth-%232C3454.svg?&style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@jcatumbar)-->
 
 Mathematician, Data Engineer and Data Analyst.
 
 - 🔭 I’m currently working on Center for Command, Control, Comunications and Computing - C4 Bogotá, building the lakehouse for the 1-2-3 emergency line.
 - 🌱 I’m currently learning Databricks, Delta Lake, Apache Spark, Apache Airflow and Apache Kafka.
-- ☎️ Ask me about mathematics, statistics and algorithms
+- ☎️ Ask me about mathematics, statistics and algorithms.
 
 ## My papers
 - [Hydrological system modeling: Approach for analysis with dynamical systems](https://doi.org/10.1088/1742-6596/1514/1/012013)
