@@ -10,7 +10,7 @@
 
 Mathematician, Data Engineer and Data Analyst.
 
-- 🔭 I’m currently working on Center for Command, Control, Comunications and Computing - C4 Bogotá, building the lakehouse for the 1-2-3 emergency line.
+- 🔭 I’m currently working at Softtek as Data Scientist.
 - 🌱 I’m currently learning Databricks, Delta Lake, Apache Spark, Apache Airflow and Apache Kafka.
 - ☎️ Ask me about mathematics, statistics and algorithms.
 
