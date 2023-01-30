@@ -8,7 +8,7 @@
 [![Blog](https://img.shields.io/badge/blog-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/posts/amathematicianinthecloud.wordpress.com)
 <!-- [![HackerEarth](https://img.shields.io/badge/hackerearth-%232C3454.svg?&style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@jcatumbar)-->
 
-Mathematician, Data Engineer and Data Analyst.
+Mathematician, Data Engineer, Data Analyst and Data Scientist.
 
 - 🔭 I’m currently working at Softtek as Data Scientist.
 - 🌱 I’m currently learning Databricks, Delta Lake, Apache Spark, Apache Airflow and Apache Kafka.
