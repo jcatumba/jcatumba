@@ -10,7 +10,7 @@
 
 Mathematician, Data Engineer, Data Analyst and Data Scientist.
 
-- 🔭 I’m currently working at Softtek as Data Scientist.
+- 🔭 I’m currently working at Globant as Data Engineer.
 - 🌱 I’m currently learning DuckDB and AWS.
 - ☎️ Ask me about mathematics, statistics and algorithms.
 
